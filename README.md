@@ -20,6 +20,9 @@ step3) cloud deploy
 deploy to ECS, any containerization platform
 OPTIONAL: configure domain & SSL cert (good for DNS practice)
 
+
+
+
 PS: I'm trying to configure domanin & ssl cert part but not able to acquire domain name easily, most domains are costly
     Will try to find a way to configure domain & SSL
 
